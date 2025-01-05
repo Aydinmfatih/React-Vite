@@ -1,10 +1,6 @@
 {
   "books": [
     {
-      "title": "The Catcher in theasd Ryeasdasd",
-      "id": 2
-    },
-    {
       "title": "The Catcher in the Rye",
       "id": 3
     },
@@ -15,6 +11,10 @@
     {
       "title": "asdasd",
       "id": 5
+    },
+    {
+      "title": "dark tower 2",
+      "id": 6
     }
   ]
 }
